@@ -1,12 +1,6 @@
-﻿using OpenAI.Managers;
-using OpenAI.ObjectModels.RequestModels;
+﻿using OpenAI.Interfaces;
 using OpenAI.ObjectModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using OpenAI.Interfaces;
+using OpenAI.ObjectModels.RequestModels;
 
 namespace OpenAI.ConsoleApp_NET7
 {
